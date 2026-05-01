@@ -47,3 +47,5 @@ It does not guarantee 100% accuracy of results, as some sites block requests or 
 Rybkix
 
 Educational project / dev-tool
+!!!I am not responsible for any harm caused by this code!!!
+!!!I am not responsible for any harm caused by this code!!!
